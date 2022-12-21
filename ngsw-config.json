@@ -12,6 +12,9 @@
           "/manifest.webmanifest",
           "/*.css",
           "/*.js"
+        ],
+        "urls": [
+          "https://fonts.googleapis.com/css?family=Oswald:300,700"
         ]
       }
     }, {
@@ -24,6 +27,11 @@
           "/*.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)"
         ]
       }
+    }
+  ],
+  "data": [
+    {
+
     }
   ]
 }
